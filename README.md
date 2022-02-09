@@ -1,6 +1,6 @@
 ## 42Seoul_Hackathon<br><br>SwiftUI Piscine - BladeBird Team
 
-## 42Seoul 확장님 상 수상
+## 42Seoul 학장님 상 수상
 
 ### 기여자
 
